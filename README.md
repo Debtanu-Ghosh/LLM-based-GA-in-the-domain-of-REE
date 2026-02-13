@@ -1,5 +1,3 @@
-# LLM-based-GA-in-the-domain-of-REE
-
 # Rare Earth Element Prediction: Diffusion Augmentation & LLM-Guided GA
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
