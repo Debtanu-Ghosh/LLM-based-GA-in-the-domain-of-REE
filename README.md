@@ -10,4 +10,4 @@ We address the challenge of predicting Rare Earth Elements (REEs) with limited g
 1.  **Tabular Diffusion Model:** Synthesizes high-fidelity data to overcome data scarcity.
 2.  **LLM-Guided Genetic Algorithm:** Uses a Large Language Model to semantically guide the hyperparameter search, replacing blind stochastic operators (crossover/mutation).
 
-Full code with diffusion are updated soon after organising all code in one file.
+Full code with diffusion will be updated soon after organising all code in one file.
