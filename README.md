@@ -4,8 +4,10 @@
 [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
 
 ## 📌 Overview
-This repository contains the official implementation of the paper **"Rare Earth Element Prediction Using Diffusion-Based Data Augmentation and LLM-Assisted Genetic Optimization."**
+This repository contains the official implementation of the paper **"Language model based optimized neural network to predict Rare Earth Elements distribution in data scarce environments."**
 
 We address the challenge of predicting Rare Earth Elements (REEs) with limited geochemical data by introducing a dual-stage framework:
 1.  **Tabular Diffusion Model:** Synthesizes high-fidelity data to overcome data scarcity.
 2.  **LLM-Guided Genetic Algorithm:** Uses a Large Language Model to semantically guide the hyperparameter search, replacing blind stochastic operators (crossover/mutation).
+
+Full code with diffusion are updated soon after organising all code in one file.
